@@ -1,4 +1,4 @@
-# Query String Dict
+# Query String Parsing
 
 https://docs.python.org/2/library/urlparse.html#urlparse.parse_qs
 
