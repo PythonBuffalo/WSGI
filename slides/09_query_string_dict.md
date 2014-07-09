@@ -14,5 +14,5 @@ def application(environ, start_response):
 #### Result
 `http://localhost:8000/?Key=Value`
 ```json
-{Key': [Value']}
+{'Key': ['Value']}
 ```
